@@ -1,0 +1,2 @@
+
+print(f"Trigrams: {trigrams}")
